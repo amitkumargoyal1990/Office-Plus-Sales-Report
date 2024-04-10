@@ -5,20 +5,25 @@
 - Which product sell best online
 - Analyze sales trends for top products
 - Sales outside California
-- The mobile dashboard also
+- The mobile dashboard
 
 ### Steps followed 
-- Step 1 : File -> options and Settings -> options -> current file -> regional setting = English(United States) as our date is a English US data for example dates have month then day then year format.
+- Step 1 : File -> options and Settings -> options -> current file -> regional setting = English(United States) as our data is a English US data for example dates follow mm/dd/yyyy format.
 - Step 2 : Load data into Power BI Desktop, Sales dataset is a csv file and a excel file.
 - Step 3 : Open Power Query For sales dataset change sales price and sales value column data types to fixed decimal number from deciaml number. 
+
+
+
+
+
+
+
+
 
 
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present.
-
-
-
 
 - Step 5 : For calculating average delay time, null values were not taken into account as only less than 1% values are null in this column(i.e column named "Arrival Delay") 
 - Step 6 : In the report view, under the view tab, theme was selected.
