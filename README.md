@@ -1,15 +1,11 @@
-# PowerBI_Project-Office-Plus-Sales-Report
+# Office Plus Sales Report with Power BI
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
-## Problem Statement
-
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
-
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
-
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
-
+## Problem Statement - Office Plus wants to see:
+- Sales by department + top selling products
+- Which product sell best online
+- Analyze sales trends for top products
+- Sales outside California
+- The mobile dashboard also
 
 ### Steps followed 
 
@@ -213,3 +209,5 @@ Average delay will change if different visual filters will be applied.
 4.2) 30.94 % customers have travel type 'Personal'.
 
         thus, more customers have travel type 'Business'.
+
+###  Note: this project idea i got from [Xelplus.com](https://www.xelplus.com/)
