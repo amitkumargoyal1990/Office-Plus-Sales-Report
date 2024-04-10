@@ -1,15 +1,21 @@
 # Office Plus Sales Report with Power BI
 
 ## Problem Statement - Office Plus wants to see:
-- Sales by department + top selling products
-- Which product sell best online
-- Analyze sales trends for top products
-- Sales outside California
-- The mobile dashboard
+1. Sales by department + top selling products
+2. Which product sell best online
+3. Analyze sales trends for top products
+4. Sales outside California
+5. The mobile dashboard
+
+### How data is stored: 
+We have a csv file for our **Sales** data and we have 3 dimension tables called **Product**, **Customer** and **Transaction** table which is is excel table format.
 
 ### Steps followed 
-- Step 1 : File -> options and Settings -> options -> current file -> regional setting = English(United States) as our data is a English US data for example dates follow mm/dd/yyyy format.
-- Step 2 : Load data into Power BI Desktop, Sales dataset is a csv file and a excel file.
+- Step 1 : Check this setting before uploading any data:
+  - File -> options and Settings -> options -> current file -> regional setting = English(United States) as our data is a English US data for example dates follow mm/dd/yyyy format.
+- Step 2: 
+
+- Step 2 : Load data into Power BI Desktop
 - Step 3 : Open Power Query For sales dataset change sales price and sales value column data types to fixed decimal number from deciaml number. 
 
 
